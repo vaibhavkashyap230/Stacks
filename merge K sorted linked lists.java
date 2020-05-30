@@ -1,8 +1,6 @@
 // https://leetcode.com/problems/merge-k-sorted-lists/
 
-/**
- * Definition for singly-linked list.
- * public class Solution
+ public class Solution
 {
     public ListNode insert(ListNode head,ListNode x)
     {
